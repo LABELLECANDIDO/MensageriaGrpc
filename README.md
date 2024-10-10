@@ -113,10 +113,10 @@ No terminal, execute o cliente:
 python client.py
 ```
 ### Testando no Postman
-![Reinicie o ciclo](https://github.com/LABELLECANDIDO/ExercicioLimonada/blob/main/app/src/main/res/imagens/copovazio.png)
+![testando](https://github.com/LABELLECANDIDO/MensageriaGrpc/blob/main/.idea/imagens/enviando.png))
 
 ### Recebendo no terminal
-![Reinicie o ciclo](https://github.com/LABELLECANDIDO/ExercicioLimonada/blob/main/app/src/main/res/imagens/copovazio.png)
+![recebendo](https://github.com/LABELLECANDIDO/MensageriaGrpc/blob/main/.idea/imagens/recebendo.png))
 
 
 ### Executar o Servidor
